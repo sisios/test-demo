@@ -1,0 +1,15 @@
+/* 
+  localization.strings
+  codeTest
+
+  Created by 未思语 on 13/11/2017.
+  Copyright © 2017 wsy. All rights reserved.
+*/
+
+"name" = "codetest";
+"tip" = "将二维码／条形码放入框内，即可自动扫描";
+"address" = "beijing";
+"addFriend" = "扫一扫上面的二维码图案，加我好友哟";
+"myCode" = "我的二维码";
+"scan" = "扫一扫";
+"code" = "二维码";
